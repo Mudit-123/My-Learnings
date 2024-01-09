@@ -40,7 +40,7 @@ This repository documents my 75-day journey of continuous learning in the field 
 
 Let's connect! Feel free to reach out, share your insights, or ask questions. You can find me on:
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/mudittripathi0806/)
+- LinkedIn: [[Mudit Tripathi](https://www.linkedin.com/in/mudittripathi0806/)
 - Twitter:[ [@YourTwitterHandle](https://twitter.com/your-handle)](https://twitter.com/16Mudit)
 
 ## Acknowledgments
